@@ -7,3 +7,9 @@ Toy operating system
 + https://github.com/aosmith/toy-os
 + https://github.com/AtheMathmo/toy-os
 + https://linuxgazette.net/issue77/krishnakumar.html
++ https://cplusplus.com/articles/zv07M4Gy/
+
+## Oracle VirtualBox
++ https://www.oracle.com/virtualization/technologies/vm/downloads/virtualbox-downloads.html?source=:ow:o:p:nav:mmddyyVirtualBoxHero&intcmp=:ow:o:p:nav:mmddyyVirtualBoxHero
++ https://www.virtualbox.org/wiki/Documentation
++ https://download.virtualbox.org/virtualbox/7.1.4/SDKRef.pdf?source=:ow:o:p:nav:mmddyyVirtualBoxHero
